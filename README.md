@@ -1,0 +1,2 @@
+# BridgePattern
+ C# BridgePattern example
